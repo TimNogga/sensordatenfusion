@@ -31,7 +31,7 @@ R = np.array([
 
 x = np.array([0, 0, 1, 1])
 P = np.eye(4) * 500
-n_steps = 500  # Increase the number of steps
+n_steps = 500
 
 t = np.linspace(0, 1000, 10000)
 
